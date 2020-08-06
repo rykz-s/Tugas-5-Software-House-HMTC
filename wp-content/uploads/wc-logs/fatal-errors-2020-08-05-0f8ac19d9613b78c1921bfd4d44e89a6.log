@@ -1,0 +1,14 @@
+2020-08-05T15:34:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 14684160 bytes) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 3877
+
+2020-08-05T15:36:36+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 6295552 bytes) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 3877
+
+2020-08-05T15:39:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1339392 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 265
+
+2020-08-05T17:17:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 18878464 bytes) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 3877
+
+2020-08-05T17:19:48+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20913848 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 265
+
+2020-08-05T17:24:25+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1339392 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 265
+
+2020-08-05T17:26:31+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 18878464 bytes) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 3877
+

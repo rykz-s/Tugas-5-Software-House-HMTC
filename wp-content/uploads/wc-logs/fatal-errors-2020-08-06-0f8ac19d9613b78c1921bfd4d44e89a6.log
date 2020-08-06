@@ -1,0 +1,2 @@
+2020-08-06T08:16:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 18878464 bytes) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 3877
+
